@@ -141,8 +141,23 @@ nav ul li a{
     line-height: 30px;
     
 }
+.more-info p{
+    margin: 18px 0 35px;
+}
+.more-info h2{
+    margin: 50px 0 0;
+}
 .more-info{
     text-align: center;
+}
+.highlight{
+    background-color: #FFADF9;
+    color:#FF3300;
+    padding:1px;
+    line-height: 50px;
+    display: inline;
+    border-radius: 10px;
+    font-weight: bold;
 }
 
 /* 
